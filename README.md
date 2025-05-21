@@ -42,11 +42,6 @@ RESTful API built with Express and PostgreSQL to serve the NC News app — inclu
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/jashworth11/jashworth11/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🏕️ Outside of Tech...
 
