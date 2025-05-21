@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Joseph Ashworth
 
-## 💻 Junior Software Developer | Northcoders Graduate | JavaScript Enthusiast
+## 💻 Junior Software Developer | Northcoders Graduate | Tech Enthusiast
 
-I'm a former soldier turned software developer, combining discipline, resilience, and a love for tech to build clean, accessible, and functional web applications.
+I'm a former soldier turned software developer, combining discipline, resilience, and a love for tech to build clean, accessible, and functional code.
 
 🎮 My journey into coding began with a passion for gaming and building PCs — which eventually led me to Northcoders, where I trained as a full-stack JavaScript developer.
 
