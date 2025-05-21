@@ -31,7 +31,6 @@ RESTful API built with Express and PostgreSQL to serve the NC News app — inclu
 ### 🧠 What I'm Working On
 
 - Finishing my **Northcoders final group project** (full-stack app)
-- Learning more about TypeScript & Next.js
 - Exploring CI/CD tools and accessibility testing
 
 ---
